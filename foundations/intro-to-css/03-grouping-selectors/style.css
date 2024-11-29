@@ -1,0 +1,14 @@
+button {
+    font-size: 28px;
+    font-family: helvetica,'Times New Roman', sans-serif;
+}
+
+.kelas-satu {
+    background: black;
+    color: white;
+}
+
+.kelas-dua {
+    background: yellow;
+
+}
