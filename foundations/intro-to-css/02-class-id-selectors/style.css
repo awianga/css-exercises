@@ -1,0 +1,20 @@
+p {
+    background: rgb(250, 177, 211);
+    font-family: Verdana, sans-serif;
+}
+
+div {
+    color: #1918FF;
+    font-size: 36px;
+}
+
+.cooler-class {
+    font-size: 48px;
+}
+
+#green-id {
+    background: rgb(128,255,128);
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
